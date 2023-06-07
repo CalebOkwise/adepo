@@ -262,7 +262,7 @@
             }, [a("img", {
                 staticClass: "section-logo",
                 attrs: {
-                    src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/urban-white.svg",
+                    src: "images/AG LOGO WHITE.svg",
                     alt: "payrail urban"
                 }
             })]), a("div", {
@@ -324,7 +324,7 @@
             }, [a("img", {
                 staticClass: "section-logo",
                 attrs: {
-                    src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/agency-white.svg",
+                    src: "images/AG LOGO WHITE.svg",
                     alt: "payrail agency"
                 }
             })]), a("div", {
@@ -386,7 +386,7 @@
             }, [a("img", {
                 staticClass: "section-logo",
                 attrs: {
-                    src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/business-white.svg",
+                    src: "images/AG LOGO WHITE.svg",
                     alt: "payrail business"
                 }
             })]), a("div", {
