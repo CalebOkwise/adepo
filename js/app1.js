@@ -477,13 +477,13 @@
             }, [a("img", {
                 staticClass: "disabled-icon",
                 attrs: {
-                    src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/agency-disabled.svg",
+                    src: "images/Group 9302484.png",
                     alt: "agency-icon"
                 }
             }), a("img", {
                 staticClass: "active-icon",
                 attrs: {
-                    src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/agency-active.svg",
+                    src: "images/oilandgasactive.png",
                     alt: "agency-icon"
                 }
             })])]), a("li", {
