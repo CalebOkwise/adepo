@@ -199,9 +199,9 @@
                 }
             }, [a("h4", {
                 staticClass: "section-block-title"
-            }, [s._v("Payrail Urban")]), a("div", {
+            }, [s._v("Marine Logistics")]), a("div", {
                 staticClass: "section-desc-txt"
-            }, [s._v(" Accelerating financial ease-on the go. You are confident of a better grip of your day-to-day transactions ")]), a("button", {
+            }, [s._v(" We ensure the process of planning, implementing and. managing the movement of goods and information involved in the ocean carriage.” ")]), a("button", {
                 staticClass: "visit-site-btn"
             }, [s._v("Visit Site")])])], 1), a("div", {
                 staticClass: "container",
@@ -216,9 +216,9 @@
                 }
             }, [a("h4", {
                 staticClass: "section-block-title"
-            }, [s._v("Payrail Agency")]), a("div", {
+            }, [s._v("Oil and Gas Services")]), a("div", {
                 staticClass: "section-desc-txt"
-            }, [s._v(" Your branchless Next-door Banking. Built for Super agents and agents; enabling multiple type transactions in an easy, convenient, and cost-effective manner. ")]), a("button", {
+            }, [s._v("Providing services such as constructing rigs, designing pipes and pipelines, carrying out technical, construction works and supplies among others. . ")]), a("button", {
                 staticClass: "visit-site-btn"
             }, [s._v("Visit Site")])])], 1), a("div", {
                 staticClass: "container",
@@ -233,9 +233,9 @@
                 }
             }, [a("h4", {
                 staticClass: "section-block-title"
-            }, [s._v("Payrail Business")]), a("div", {
+            }, [s._v("Renewable Energy")]), a("div", {
                 staticClass: "section-desc-txt"
-            }, [s._v(" Helping solopreneurs and small businesses grow into an all-inclusive banking service that works. ")]), a("button", {
+            }, [s._v(" We find ways to generate energy from (theoretically) unlimited natural resources. ")]), a("button", {
                 staticClass: "visit-site-btn"
             }, [s._v("Visit Site")])])], 1)]), a("full-page", {
                 ref: "fullpage",
@@ -286,7 +286,7 @@
                 attrs: {
                     to: "/#"
                 }
-            }, [a("span", [s._v("Sign in")]), a("img", {
+            }, [a("span", [s._v("Contact us")]), a("img", {
                 staticClass: "right-arr",
                 attrs: {
                     src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/right-arr-white.svg",
@@ -305,7 +305,7 @@
                 staticClass: "container"
             }, [a("p", {
                 staticClass: "copyright-p"
-            }, [s._v(" © Angala Financial Technologies Limited. All Rights Reserved. ")])])])]), a("div", {
+            }, [s._v(" © Adeppo Groups Limited. All Rights Reserved. ")])])])]), a("div", {
                 staticClass: "section rel",
                 attrs: {
                     id: "agency-section"
@@ -348,7 +348,7 @@
                 attrs: {
                     to: "/#"
                 }
-            }, [a("span", [s._v("Sign in")]), a("img", {
+            }, [a("span", [s._v("Contact us")]), a("img", {
                 staticClass: "right-arr",
                 attrs: {
                     src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/right-arr-white.svg",
@@ -367,7 +367,7 @@
                 staticClass: "container"
             }, [a("p", {
                 staticClass: "copyright-p"
-            }, [s._v(" © Angala Financial Technologies Limited. All Rights Reserved. ")])])])]), a("div", {
+            }, [s._v(" © Adeppo Groups Limited. All Rights Reserved. ")])])])]), a("div", {
                 staticClass: "section rel",
                 attrs: {
                     id: "business-section"
@@ -410,7 +410,7 @@
                 attrs: {
                     to: "/#"
                 }
-            }, [a("span", [s._v("Sign in")]), a("img", {
+            }, [a("span", [s._v("Contact us")]), a("img", {
                 staticClass: "right-arr",
                 attrs: {
                     src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/right-arr-white.svg",
@@ -429,7 +429,7 @@
                 staticClass: "container"
             }, [a("p", {
                 staticClass: "copyright-p"
-            }, [s._v(" © Angala Financial Technologies Limited. All Rights Reserved. ")])])])])])], 1)
+            }, [s._v(" © Adeppo Groups Limited. All Rights Reserved. ")])])])])])], 1)
         }
           , u = [function() {
             var s = this
@@ -455,13 +455,13 @@
             }, [a("img", {
                 staticClass: "disabled-icon",
                 attrs: {
-                    src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/urban-disabled.svg",
+                    src: "images/logisticsinactive.svg",
                     alt: "urban-icon"
                 }
             }), a("img", {
                 staticClass: "active-icon",
                 attrs: {
-                    src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/urban-active.svg",
+                    src: "images/logisticsactive.svg",
                     alt: "urban-icon"
                 }
             })])]), a("li", {
@@ -477,13 +477,13 @@
             }, [a("img", {
                 staticClass: "disabled-icon",
                 attrs: {
-                    src: "images/Group 9302484.png",
+                    src: "images/oilandgasinactive.svg",
                     alt: "agency-icon"
                 }
             }), a("img", {
                 staticClass: "active-icon",
                 attrs: {
-                    src: "images/oilandgasactive.png",
+                    src: "images/oilandgasactive.svg",
                     alt: "agency-icon"
                 }
             })])]), a("li", {
@@ -493,19 +493,19 @@
                 }
             }, [a("a", {
                 attrs: {
-                    href: "/business",
+                    href: "/group/oil-and-gas.html",
                     onmouseenter: "window.location.href='/#business'"
                 }
             }, [a("img", {
                 staticClass: "disabled-icon",
                 attrs: {
-                    src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/business-disabled.svg",
+                    src: "images/energydisabled.svg",
                     alt: "business-icon"
                 }
             }), a("img", {
                 staticClass: "active-icon",
                 attrs: {
-                    src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/business-active.svg",
+                    src: "images/energyactive.svg",
                     alt: "business-icon"
                 }
             })])]), a("img", {
@@ -1472,7 +1472,7 @@
                 }
             }, [s._v(" Privacy Policy")]), s._v(". ")])])]), a("div", {
                 staticClass: "col s12 pad0-xs copyright-div"
-            }, [a("p", [s._v(" © Angala Financial Technologies Limited. All Rights Reserved. ")])])])])])
+            }, [a("p", [s._v(" © Adeppo Groups Limited. All Rights Reserved. ")])])])])])
         }
         ]
           , R = {
@@ -3388,7 +3388,7 @@
                 }
             }, [s._v(" Privacy Policy")]), s._v(". ")])])]), a("div", {
                 staticClass: "col s12 pad0-xs copyright-div"
-            }, [a("p", [s._v(" © Angala Financial Technologies Limited. All Rights Reserved. ")])])])])])
+            }, [a("p", [s._v(" © Adeppo Groups Limited. All Rights Reserved. ")])])])])])
         }
         ]
           , Cs = {
@@ -4868,7 +4868,7 @@
                 }
             }, [s._v(" Privacy Policy")]), s._v(". ")])])]), a("div", {
                 staticClass: "col s12 pad0-xs copyright-div"
-            }, [a("p", [s._v(" © Angala Financial Technologies Limited. All Rights Reserved. ")])])])])])
+            }, [a("p", [s._v(" © Adeppo Groups Limited. All Rights Reserved. ")])])])])])
         }
         ]
           , Ms = {
