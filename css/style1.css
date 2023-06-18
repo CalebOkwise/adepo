@@ -1238,21 +1238,21 @@ section#debit-cards .row {
 }
 
 #urban-section[data-v-433ee464] {
-    background: url(https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/urban-sect-bg.jpg);
+    background: url(../images/logisticsbg.svg);
     background-size: cover;
     background-position: 50%;
     background-repeat: no-repeat
 }
 
 #agency-section[data-v-433ee464] {
-    background: url(https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/agency-sect-bg.jpg);
+    background: url(../images/oilandgasbg.svg);
     background-size: cover;
     background-position: 50%;
     background-repeat: no-repeat
 }
 
 #business-section[data-v-433ee464] {
-    background: url(https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/business-sect-bg.jpg);
+    background: url(../images/renewableenergybg.svg);
     background-size: cover;
     background-position: 50%;
     background-repeat: no-repeat
@@ -1691,7 +1691,12 @@ ul.menu.menu-indicator hr[data-v-433ee464] {
 }
 
 h4.section-block-title[data-v-433ee464] {
-    font-size: 38px
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 34px;
+letter-spacing: 0.01cm;
 }
 
 @-webkit-keyframes bounce-data-v-433ee464 {
