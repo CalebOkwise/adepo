@@ -211,7 +211,7 @@
             }, [a("router-link", {
                 staticClass: "text-desc-block",
                 attrs: {
-                    to: "/agency",
+                    to: "/",
                     tag: "div"
                 }
             }, [a("h4", {
@@ -512,14 +512,14 @@
                 staticClass: "scroll-wheel-circle urban-circle",
                 attrs: {
                     "data-menuanchor": "urban",
-                    src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/urban-circle.svg",
+                    src: "images/logisticscircle.svg",
                     alt: "scroll-circle"
                 }
             }), a("img", {
                 staticClass: "scroll-wheel-circle agency-circle",
                 attrs: {
                     "data-menuanchor": "agency",
-                    src: "https://websites-images-1.s3.us-east-2.amazonaws.com/payrail-images/images/agency-circle.svg",
+                    src: "images/oilandgascircle.svg",
                     alt: "scroll-circle"
                 }
             }), a("img", {
