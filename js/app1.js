@@ -408,7 +408,7 @@
             })]), a("router-link", {
                 staticClass: "flex-div",
                 attrs: {
-                    to: "/#"
+                    to: "group/contact-us-page.html"
                 }
             }, [a("span", [s._v("Contact us")]), a("img", {
                 staticClass: "right-arr",
