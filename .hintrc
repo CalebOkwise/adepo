@@ -1,0 +1,25 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/aria": [
+      "default",
+      {
+        "aria-required-children": "off",
+        "aria-allowed-attr": "off"
+      }
+    ],
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "width: fit-content",
+          "text-decoration-skip-ink",
+          "-webkit-text-size-adjust"
+        ]
+      }
+    ],
+    "no-inline-styles": "off"
+  }
+}
